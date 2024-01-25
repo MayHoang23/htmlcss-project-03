@@ -485,7 +485,7 @@ a {
     overflow: hidden;
 }
 
-.member-item__img {
+.member-item__thumb {
     display: block;
     max-width: 100%;
     height: 290px;
